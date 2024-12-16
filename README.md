@@ -1,4 +1,4 @@
-# vue-meteo
+# react-native-web-meteo
 
 <img width="1302" alt="image" src="https://github.com/eugeneshul/react-native-web-meteo/blob/main/src/assets/Screenshot-main-page.png">
 
