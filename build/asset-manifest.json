@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e7757df1.js",
+    "static/media/compass.png": "/static/media/compass.0410ebfff314c8db25bd.png",
+    "static/media/humidity.png": "/static/media/humidity.7bffac3cf51ff28ecb52.png",
+    "static/media/equalizer.png": "/static/media/equalizer.345a4f5f6856587dc36d.png",
+    "static/media/sun.svg": "/static/media/sun.3ebf104dbc63af1dd115d2241f8d42ce.svg",
+    "static/media/weather.svg": "/static/media/weather.d9cb72476b9de783e8bdd1b111e5b616.svg",
+    "static/media/gusts.svg": "/static/media/gusts.c34469b25b09d083c246e358597c8ad3.svg",
+    "static/media/humidity.svg": "/static/media/humidity.94ac6c6c4d15dcebb7298a72ce6cbde6.svg",
+    "static/media/calendar.svg": "/static/media/calendar.63f70826f5dfd7c1afd60e0932f20b54.svg",
+    "static/media/cloud.svg": "/static/media/cloud.7ac3d0de73ae2bf48aad90577f45f91d.svg",
+    "index.html": "/index.html",
+    "static/media/location.svg": "/static/media/location.e0d9937e8acf917312ab3706fba9e20d.svg",
+    "static/media/search.svg": "/static/media/search.5529aaa21524e4ca30f8c59f22b1f741.svg",
+    "main.e7757df1.js.map": "/static/js/main.e7757df1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e7757df1.js"
+  ]
+}
